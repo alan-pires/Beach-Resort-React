@@ -66,6 +66,7 @@ class RoomProvider extends Component {
         const room = tempRooms.find((room) => room.slug === slug)
         return room;
     }
+    
 
     handleChange = event =>{
         const target = event.target;

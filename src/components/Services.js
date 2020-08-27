@@ -12,18 +12,18 @@ export default class Services extends Component {
            },
            {
             icon:<FaHiking />,
-            title:"Hiking",
-            info: "Curta curta curta yeah"
+            title:"Trilhas",
+            info: "O hotel fica localizado próximo as trilhas mais bonitas da cidade."
         },
         {
             icon:<FaShuttleVan />,
             title:"Transfer",
-            info: "Temos vans partindo do aeroporto diariamente"
+            info: "Temos vans partindo do aeroporto diariamente."
         },
         {
             icon:<FaBeer />,
             title:"Cervejas",
-            info: "Experimente nossas cervejas artesanais"
+            info: "Experimente nossas cervejas artesanais."
         }
 
        ]

@@ -9,7 +9,7 @@ function Home() {
     return (
      <React.Fragment>
         <Hero>
-            <Banner title="Quartos de luxo" subtitle="Quartos de luxo a partir de 250,00">
+            <Banner title="Hotel Sua Praia" subtitle="Quartos a partir de 150,00">
                 <Link to='/rooms' className="btn-primary" >
                    Conheça nossos Quartos
                 </Link>
